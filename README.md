@@ -32,6 +32,7 @@ To achieve these goals, the analysis combines multiple methods:
 - Cluster & Segmentation → Cluster analysis to group listings based on engagement, and host segmentation (single vs. multi-listing).
 
 ## Insight & Key Recommendations
+![Alt Text](Insight%20Bangkok%20Airbnb.png)
 ### Insight 1: 
 #### Geographical Distribution & Room Type
 The analysis reveals significant differences in the distribution of Airbnb listings in Bangkok.
