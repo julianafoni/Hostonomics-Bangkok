@@ -86,4 +86,4 @@ Recommendation:
   - [Bangkok Airbnb Market Explorer (Interactive)](https://public.tableau.com/views/HostonomicsBangkok/RentalMarketExplorer?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 - **Presentation**  
-  - [Hostonomics-Bangkok (PDF)](./Hostonomics-Bangkok.pdf)  
+  - [Hostonomics-Bangkok (PDF)](./Hostonomic-bangkok%20%28presentation%29.pdf)
