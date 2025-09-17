@@ -68,9 +68,11 @@ Recommendation:
 - Multi-listing hosts (professional) dominate the majority of listings, set higher prices, and attract more reviews.
 - Single-listing hosts tend to struggle to compete, especially in premium neighborhoods.
 
-## Assets
-
 Recommendation:
 - Platform (Airbnb) may consider regulations or incentives to ensure fairness between individual and professional hosts.
 - Investors can replicate the pricing strategies of professional hosts.
-- Individual hosts should focus on niche markets or unique services to improve competitiveness. 
+- Individual hosts should focus on niche markets or unique services to improve competitiveness.   
+
+## Assets
+
+
