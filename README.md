@@ -75,5 +75,15 @@ Recommendation:
 - Individual hosts should focus on niche markets or unique services to improve competitiveness.   
 
 ## Assets
+- **Jupyter Notebooks (Python)** – consist of data cleaning and 4 analysis notebooks:  
+  1. [Data Cleaning](./(1)_Data_Cleaning.ipynb)  
+  2. [Data Analysis – Q1](./(2)_Data_Analysis_Q1.ipynb)  
+  3. [Data Analysis – Q2](./(3)_Data_Analysis_Q2.ipynb)  
+  4. [Data Analysis – Q3](./(4)_Data_Analysis_Q3.ipynb)  
+  5. [Data Analysis – Q4](./(5)_Data_analysis_Q4.ipynb)  
 
+- **Tableau Dashboard**  
+  - [Bangkok Airbnb Market Explorer (Interactive)](https://public.tableau.com/views/HostonomicsBangkok/RentalMarketExplorer?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
+- **Presentation**  
+  - [Hostonomics-Bangkok (PDF)](./Hostonomics-Bangkok.pdf)  
