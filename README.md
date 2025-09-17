@@ -30,3 +30,47 @@ To achieve these goals, the analysis combines multiple methods:
 - Geospatial Analysis → Scatter plot maps, heatmaps, and crosstabs (neighborhood × room type) to understand geographical distribution.
 - Correlation & Regression → Correlation matrix, linear regression, and random forest regression to measure the impact of variables on price and engagement.
 - Cluster & Segmentation → Cluster analysis to group listings based on engagement, and host segmentation (single vs. multi-listing).
+
+## Insight & Key Recommendations
+### Insight 1: 
+#### Geographical Distribution & Room Type
+The analysis reveals significant differences in the distribution of Airbnb listings in Bangkok.
+- Some premium neighborhoods are dominated by entire homes/apartments with higher prices.
+- Backpacker areas tend to offer private/shared rooms with lower prices.
+- Correlation with popularity (number of reviews) shows that premium neighborhoods also attract higher engagement.
+
+Recommendation:
+- Hosts in non-premium areas can enhance attractiveness through service differentiation or added facilities.
+- Platform (Airbnb) can use geographical segmentation for targeted promotional strategies.
+- Investors are advised to focus on premium neighborhoods with consistently high engagement.
+
+### Insight 2:
+#### Price Determinants
+- Results from ANOVA/Kruskal-Wallis show that location and room type are the most significant factors influencing rental prices.
+- Correlation analysis indicates that the number of reviews has an effect, but weaker compared to location.
+- Regression and random forest analysis confirm the feature importance ranking: Location > Room Type > Reviews > Minimum Nights.
+  
+Recommendation:
+- Hosts can implement dynamic pricing strategies based on significant variables rather than intuition alone.
+- Platform (Airbnb) can develop automated pricing recommendation features to enhance fairness.
+
+### Insight 3:
+#### Engagement & Popularity
+- Listings with many reviews in the last 12 months but low availability fall into the high-demand property category.
+- Minimum stay policies significantly affect popularity: the more flexible, the higher the likelihood of engagement.
+
+Recommendation:
+- New hosts may consider adopting more flexible minimum stay policies to attract more guests.
+- Investors can identify high-demand properties as medium-term investment opportunities.
+
+### Insight 4:
+#### Host Behavior (Single vs Multi-listing)
+- Multi-listing hosts (professional) dominate the majority of listings, set higher prices, and attract more reviews.
+- Single-listing hosts tend to struggle to compete, especially in premium neighborhoods.
+
+## Assets
+
+Recommendation:
+- Platform (Airbnb) may consider regulations or incentives to ensure fairness between individual and professional hosts.
+- Investors can replicate the pricing strategies of professional hosts.
+- Individual hosts should focus on niche markets or unique services to improve competitiveness. 
